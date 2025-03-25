@@ -1,4 +1,5 @@
 todo/
 .env
+venv/
 firebase_credentials.json
 __pycache__/
